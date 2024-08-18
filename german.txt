@@ -1,0 +1,10 @@
+Hallo, wie geht es dir?
+Wie heißen Sie?
+Woher kommst du?
+Ich lerne natürliche Sprachverarbeitung.
+Dies ist ein Sprachübersetzungsprojekt.
+Das Wetter ist heute schön.
+Ich liebe es, in Python zu programmieren.
+Künstliche Intelligenz ist faszinierend.
+Können Sie mir bei dieser Aufgabe helfen?
+Haben Sie einen schönen Tag!

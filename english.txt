@@ -1,0 +1,3 @@
+This is a sample text file in English.
+It contains multiple sentences for testing purposes.
+The quick brown fox jumps over the lazy dog.

@@ -1,0 +1,3 @@
+Ceci est un fichier texte d'exemple en français.
+Il contient plusieurs phrases à des fins de test.
+Le rapide renard brun saute par-dessus le chien paresseux.
